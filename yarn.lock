@@ -1707,9 +1707,9 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
-"@im33357/uniswap-v2-sdk@3.0.7":
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/@im33357/uniswap-v2-sdk/-/uniswap-v2-sdk-3.0.7.tgz#4c3f1d54464eb7325f24887b21be7e326814998c"
+"@dapangyu-fish/uniswap-v2-sdk@3.0.12":
+  version "3.0.12"
+  resolved "https://registry.yarnpkg.com/@dapangyu-fish/uniswap-v2-sdk/-/uniswap-v2-sdk-3.0.12.tgz#4c3f1d54464eb7325f24887b21be7e326814998c"
   integrity sha512-o5abZp6Xt3rNkPgU8ngCXvboPQGAXoh69GKyaz1AxummwQNHoLcWURbwW74hHNyDgRu0re2MvqpVNYFebuhVNw==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
@@ -1951,7 +1951,7 @@
   dependencies:
     "@portis/web3-provider-engine" "1.1.0"
     ethereumjs-util "5.2.0"
-    penpal "3.0.7"
+    penpal "3.0.12"
     pocket-js-core "0.0.3"
 
 "@reach/dialog@^0.10.3":
@@ -11138,9 +11138,9 @@ pend@~1.2.0:
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha1-elfrVQpng/kRUzH89GY9XI4AelA=
 
-penpal@3.0.7:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/penpal/-/penpal-3.0.7.tgz#d252711ed93b30f1d867eb82342785b3a95f5f75"
+penpal@3.0.12:
+  version "3.0.12"
+  resolved "https://registry.yarnpkg.com/penpal/-/penpal-3.0.12.tgz#d252711ed93b30f1d867eb82342785b3a95f5f75"
   integrity sha512-WSXiq5HnEvzvY05SHhaXcsviUmCvh4Ze8AiIZzvmdzaaYAAx4rx8c6Xq6+MaVDG/Nfve3VmGD8HyRP3CkPvPbQ==
 
 performance-now@^2.1.0:
